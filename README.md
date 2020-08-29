@@ -3,6 +3,7 @@
 2. ps-wgetx01.ps1: Download/Extract mutiple files of different extension from HTTP web server or Repository at single place
 
 # Usage Example
+```.\ps-wgetx01.ps1 -origin https://nginx.org -MainSite https://nginx.org/packages/rhel/7/ -LocalOutputPath C:\Users\Public -FileExtensions xml,rpm,tar.gz,exe,pdf,xml,mp4```
 ```.\ps-scrapx01.ps1 -origin https://nginx.org -MainSite https://nginx.org/packages/rhel/7/ -LocalOutputPath C:\Users\Public -FileExtensions xml,rpm,tar.gz,exe,pdf,xml,mp4```
 ```
 -origin            Main Target webserver or website Origin URL {For example: https://google.com, https://nginx.org etc.}
