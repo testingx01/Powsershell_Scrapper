@@ -11,4 +11,4 @@
 -FileExtensions    Extenstion file you want to download {Can dowloaded mutiple files of different extentions}
 ```
 
-### Bonus: CTF Hunters or OSCP Aspirants can use this script to copy all there hosted exploit on target host in single run ;)
+### Bonus: CTF Hunters or OSCP Aspirants can use this script to copy all their hosted exploit on target host in single run ;)
