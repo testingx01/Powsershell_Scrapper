@@ -1,4 +1,4 @@
-# Powsershell_Scrapper (Scripts will be upload soon..)
+# Powsershell_Scrapper (Scripts will be uploaded soon..)
 1. ps-scrapx01.ps1:  To replicate folders & files in controlled way
 2. ps-wgetx01.ps1: Download/Extract mutiple files of different extension from HTTP web server or Repository at single place
 
